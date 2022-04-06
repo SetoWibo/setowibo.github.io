@@ -1,0 +1,54 @@
+#hero {
+  height: 500px;
+  background-image: url(img/jumbo.jpg);
+  background-size: cover;
+  background-position: 0 -80px;
+}
+.isi {
+  color: white;
+  padding-top: 140px;
+  padding-left: 70px;
+  font-size: xx-large;
+}
+.isi h5 {
+  padding-top: 10px;
+}
+.content {
+  background-color: rgb(10, 10, 37);
+  padding-top: 30px;
+  text-align: center;
+  color: white;
+  padding-bottom: 80px;
+}
+.content h2 {
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+#Project {
+  background-color: rgb(60, 60, 66);
+  padding-top: 80px;
+  padding-bottom: 100px;
+  text-align: center;
+  color: white;
+}
+.helo {
+  padding-top: 30px;
+  color: black;
+}
+
+#contact {
+  background-color: rgb(19, 19, 63);
+  padding: 80px;
+  color: white;
+}
+
+.footer {
+  text-align: center;
+  background-color: rgb(3, 3, 48);
+  padding: 10px;
+  color: white;
+}
+
+.button {
+  padding-top: 30px;
+}
